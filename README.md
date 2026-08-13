@@ -30,7 +30,7 @@ assumptions to a colleague or a county.
 | Audited collection rates | County annual financial reports published by the Comptroller's Division of Local Government Audit — the allowance-for-uncollectible note in each county's audited statements (83 of 95 counties; statewide median of 98.78% for the rest) |
 | County boundaries | US Atlas TopoJSON, projected to Albers and inlined as SVG |
 
-`data/tn_counties_dataset.csv` contains everything the page has baked in, so
+`tn_counties_dataset.csv` contains everything the page has baked in, so
 any figure on screen can be traced back to a row.
 
 ## Known gaps
